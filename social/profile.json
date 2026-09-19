@@ -1,9 +1,9 @@
 {
   "publicKey": "ed25519:6994176ffc7d6a6095ed1768385726ad54d9b9f4b15c9b097c6ac89cac8be0cb",
   "handle": "dylan.social",
-  "repoURL": null,
+  "repoURL": "https://github.com/gargster/dylan-social.git",
   "displayName": "Dylan",
   "bio": "Builder",
   "created": "2026-09-19T07:21:37.286279Z",
-  "signature": "ak0yw2rFbnQLGkdGRNvkFEoSZkEtmwmu2Ll1xFMzI9GVE8sCQwllsi0wsIRqS3LmEqsm9GsHkRlnJ7JBDsuHAQ=="
+  "signature": "kg2wT7rdJN1Pt9/HF/b970dZo+hYJv35QOqonLpcFUaCNmWug504Pq7UHkqTdq6oRVNdCfLREf8mDXOhABOQAw=="
 }
